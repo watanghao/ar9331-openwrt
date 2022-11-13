@@ -27,4 +27,4 @@
 
 
 
-#sed -i 's/coolsnowwolf\/luci/xiaomeng9597\/luci/g' feeds.conf.default
+sed -i 's/coolsnowwolf\/luci/xiaomeng9597\/luci/g' feeds.conf.default
